@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquellos ojos de misterio
+
+This log tracks the cryptographic history and versioning for the song **Aquellos ojos de misterio** (aquellos-ojos-de-misterio).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:38:46.312557 | `v1` | `ca7a91e4054fadc8b0b9e8080e087de5049beb714b7256bbe13304b687710a5b` | `17aa15b10e96bc8225ec71ce5680ac142e66b3d21fc5e645847bf185c488229b` | `2026-06-14_aquellos-ojos-de-misterio-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
